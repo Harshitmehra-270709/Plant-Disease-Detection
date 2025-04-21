@@ -1,6 +1,5 @@
 # Plant Disease Detection
 
-![Plant Disease Detection](Screenshot%202025-04-21%20233846.png)
 
 ## Overview
 
@@ -24,7 +23,6 @@ The model is trained on the **Plant Village dataset**, which contains over 87,00
 
 ## Model Architecture
 
-![Model Performance](Screenshot%202025-04-21%20233842.png)
 
 The model utilizes a pre-trained VGG16 convolutional neural network with transfer learning:
 
